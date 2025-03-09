@@ -1,4 +1,5 @@
 # A website template for academics
+Credit to MatsEsseldeurs and sbryngelsons for the modified template and original template respectively
 
 ## Users
 
