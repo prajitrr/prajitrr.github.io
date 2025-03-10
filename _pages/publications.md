@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
@@ -8,10 +8,10 @@ years: [2022]
 
 <div class="jumbotron">
 
-### Accepted Publications
+### accepted
 {% bibliography -f articles -q @*[published=True] %}
 
-### Preprints
-{% bibliography -f thesis --query @thesis %}
+### preprints
+{% bibliography -f articles -q @*[preprint=True] %}
 
 </div>
