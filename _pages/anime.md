@@ -6,4 +6,4 @@ permalink: /anime.html
 ---
 
 <br>
-Coming soon :)
+My thoughts on a list of anime I've watched and would recommend. Coming soon!
