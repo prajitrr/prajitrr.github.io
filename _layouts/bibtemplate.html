@@ -22,8 +22,12 @@ pre{
 </style>
 
 
-<div class="text-justify">{{reference | replace: 'Rajkumar, P.', '<b>Rajkumar, P.</b>' | replace: 'Rajkumar', '<b>Rajkumar</b>'}}</div>
-
+<div class="text-justify">
+  {{ reference 
+    | replace: 'Rajkumar, P.', '<b style="color:white;">Rajkumar, P.</b>' 
+    | replace: 'Rajkumar', '<b style="color:white;">Rajkumar</b>' 
+  }}
+</div>
 {% assign bibtest = false %}
 {% if entry.file %}
 {% assign bibfile = "/papers/" | append: entry.file %}
