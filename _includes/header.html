@@ -37,13 +37,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       {% for member in site.data.pi %}
         <div>
         {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square" style="font-size: 3em;"></i></a> {% endif %}
-        {% if member.instagram %}<a href="{{ member.instagram }}" target="_blank"><i class="fa fa-instagram" style="font-size: 3em;"></i></a> {% endif %}
+        {% if member.instagram %}<a href="{{ member.instagram }}" target="_blank"><i class="fa-brands fa-square-instagram" style="font-size: 3em;"></i></a> {% endif %}
         {% if member.xtwitter %}<a href="{{ member.xtwitter }}" target="_blank"><i class="fa-brands fa-square-x-twitter" style="font-size: 3em;"></i></a> {% endif %}
         {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square" style="font-size: 3em;"></i></a> {% endif %}
         {% if member.LinkedIn %} <a href="{{ member.LinkedIn }}" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 3em;"></i></a> {% endif %}
         {% if member.orcid %} <a href="{{ member.orcid }}" target="_blank"><i class="fa-brands fa-orcid" style="font-size: 3em;"></i></a> {% endif %}
         {% if member.ads %} <a href="{{ member.ads }}" target="_blank"><i class="ai ai-ads-square" style="font-size: 3em;"></i></a> {% endif %}
-        {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="fa-solid fa-graduation-cap" style="font-size: 3em;"></i></a> {% endif %}
+        {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="fa-brands fa-google-scholar" style="font-size: 3em;"></i></a> {% endif %}
         </div>
       {% endfor %}
       </ul>
