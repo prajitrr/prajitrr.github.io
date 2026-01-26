@@ -91,13 +91,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div style="text-align:justify">
 ### about me
-Hi! Thank you for checking out my website! I'm Prajit Rajkumar, a third-year undergraduate student at [UC San Diego](https://ucsd.edu/) in [Thurgood Marshall College](https://marshall.ucsd.edu/). 
+Hi! Thank you for checking out my website! I'm Prajit Rajkumar, a third-year undergraduate student at [UC San Diego](https://ucsd.edu/). 
 
 I'm pursuing a double major in [Biology with a Specialization in Bioinformatics](https://biology.ucsd.edu/education/undergrad/major-minor-programs/majors/requirements/bioinformatics/index.html) and [Mathematics-Computer Science](https://math.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s). 
 
-Outside of class, I'm heavily involved with research as part of the [Dorrestein Lab](https://dorresteinlab.ucsd.edu/) at UCSD's [Skaggs School of Pharmacy & Pharmaceutical Sciences](https://pharmacy.ucsd.edu/), where I mainly focus on computational metabolomics. I've continued my work in this field over the course of an internship at [Enveda](https://enveda.com/), during which I leveraged my research experience to help solve problems related to drug discovery.
+Outside of class, I'm heavily involved with research as part of the [Dorrestein Lab](https://dorresteinlab.ucsd.edu/) at UCSD's [Skaggs School of Pharmacy & Pharmaceutical Sciences](https://pharmacy.ucsd.edu/), where I mainly focus on computational metabolomics. I've been fortunate to have had the opportunity to contribute to and lead a number of publications in this group, and I've received grants from OpenAI and Google DeepMind for my work.
 
-I'm also passionate about teaching and giving back to the academic community that has shaped me, which has led me to work as a [Supplemental Instruction Leader](https://aah.ucsd.edu/supplemental-instruction/index.html) for various mathematics courses as well as lead UCSD's [Undergraduate Bioinformatics Club](https://ubicucsd.github.io/) as a vice president. 
+I've continued my work in this field over the course of an internship at [Enveda](https://enveda.com/), during which I leveraged my research experience to help solve problems related to drug discovery. I'll be returning to Enveda in Spring 2026 to work on frontier machine learning research for natural product discovery. 
+
+I'm also passionate about teaching and giving back to the academic community that has shaped me, which has led me to work as a [Supplemental Instruction Leader](https://aah.ucsd.edu/supplemental-instruction/index.html) for various mathematics courses as well as lead UCSD's [Undergraduate Bioinformatics Club](https://ubicucsd.github.io/) as Vice President. 
 
 In my free time, I like playing chess, long distance running, and watching anime.
 </div>

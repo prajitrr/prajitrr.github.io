@@ -14,11 +14,11 @@ This is a list of courses or other items I've served on the instruction staff fo
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="text-align:justify">
 <h4>MATH 20C - Calculus for Science and Engineering III</h4>
-<h5> Prof. Wei Yin; SP25</h5>
+<h5> Prof. Wei Yin, Prof. Jon Aycock; SP25, WI26</h5>
 <em>Institution:</em> University of California, San Diego<br>
 <em>Role:</em> Supplemental Instruction Leader<br><br>
 <em>Course Description:</em> Vector geometry, vector functions and their derivatives. Partial differentiation. Maxima and minima. Double integration.<br><br>
-<em>My Thoughts:</em> Course in progress right now/not started!
+<em>My Thoughts:</em> Overall, I've found that this course presents less of a challenge to students compared with the jump from differential to integral calculus.However, the concepts associated with thinking in three dimensions that are associated with this course force students to develop a strong spatial understanding, a skill that is quite valuable in both future courses and real-life applications. As an example, I taught for this course while taking a cardiovascular physiology course, BENG 230C, which introduced various fundamentals, such as learning to read and understand EKGs, from first a principles perspective that required a strong understanding of vector calculus. I'd definitely recommend this course to anyone interested in thinking about systems quantitatively.<br><br>
 </div>
 </div>
 
@@ -26,7 +26,7 @@ This is a list of courses or other items I've served on the instruction staff fo
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="text-align:justify">
 <h4>MATH 20B - Calculus for Science and Engineering II</h4>
-<h5> Prof. Xie Wu, Prof. Yousaf Habib; FA24, WI25</h5>
+<h5> Prof. Xie Wu, Prof. Yousaf Habib, Prof. Hsiao-Bing Cheng; FA24, WI25, FA25</h5>
 <em>Institution:</em> University of California, San Diego<br>
 <em>Role:</em> Supplemental Instruction Leader<br><br>
 <em>Course Description:</em> Integral calculus of one variable and its applications, with exponential, logarithmic, hyperbolic, and trigonometric functions. Methods of integration. Infinite series. Polar coordinates in the plane and complex exponentials.<br><br>

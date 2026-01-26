@@ -56,6 +56,17 @@ This course introduced us to a variety of
 <!-- </div>
 </div> -->
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12" style="text-align:justify">
+<h4>BENG 230C - Cardiovascular Physiology</h4>
+<h5> Prof. Kevin King; SP25</h5>
+<em>Course Level:</em> Graduate<br>
+<em>Institution:</em> University of California, San Diego<br>
+<em>Course Description:</em> Physical concepts of behavior of heart, large blood vessels, vascular beds in major organs and the microcirculation. Physical and physiological principles of blood flow, blood pressure, cardiac work, electrophysiology of the heart. Special vascular beds, including their biological and hemodynamic importance. Integration through nervous and humoral controls.<br><br>
+<em>Grade Received:</em> A<br>
+
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="text-align:justify">
@@ -63,9 +74,9 @@ This course introduced us to a variety of
 <h5> Profs. Geert Schmid-Schoenbein & Peter Chen; WI25</h5>
 <em>Course Level:</em> Graduate<br>
 <em>Institution:</em> University of California, San Diego<br>
-<em>Course Description:</em> []<br><br>
-<em>Grade Received:</em> WIP<br>
-<em>My Thoughts:</em> []
+<em>Course Description:</em> This course  focuses on the application of engineering principles to develope innovative solutions to common, pervasive problems in patient healthcare. Students will hear from a variety of experts in innovation in biomedical engineering and will receive the chance to propose, design, and present a novel solution to a current problem in the healthcare system.<br><br>
+<em>Grade Received:</em> A<br>
+
 </div>
 </div>
 
@@ -77,7 +88,7 @@ This course introduced us to a variety of
 <em>Institution:</em> University of California, San Diego<br>
 <em>Course Description:</em> Case-based introduction to patient-focused reasoning. Covers principles of quantitative physiology, medical devices (diagnostic and therapeutic), and complexities of real-world care settings. Emphasis on cardiopulmonary diseases.<br><br>
 <em>Grade Received:</em> A<br>
-<em>My Thoughts:</em> []
+
 </div>
 </div>
 
@@ -89,7 +100,7 @@ This course introduced us to a variety of
 <em>Institution:</em> University of California, San Diego<br>
 <em>Course Description:</em> This course provides "hands-on" VLSI design guideline of the machine learning (ML) accelerator architectures across top-to-down vertical layers including algorithm, architecture, and circuit design. The overview/theory of training and inference of deep neural network and other ML algorithms is provided. Students are supposed to train and validate their own network models for computer vision and natural language processing (NLP) applications via Python (PyTorch) programming. Then, the network model is mapped on the hardware by applying multiple low-power techniques including quantization, pruning, compression, and sparsity-aware circuit techniques. Students design their own architecture with Verilog programming and verify the functionality with their test benches from Python. Finally, the design is synthesized and evaluated with the Quartus Prime tool.<br><br>
 <em>Grade Received:</em> A-<br>
-<em>My Thoughts:</em> []
+
 </div>
 </div>
 
@@ -101,7 +112,7 @@ This course introduced us to a variety of
 <em>Institution:</em> University of California, San Diego<br>
 <em>Course Description:</em> This course provides an introduction to bioinformatics techniques for analyzing and interpreting human genomes. Topics covered include an introduction to medical and population genetics, ancestry, finding and interpreting disease-causing variants, genome-wide association studies, genetic risk prediction, analyzing next-generation sequencing data, how to scale current genomics techniques to analyze hundreds of thousands of genomes, and the social impact of the personal genomics revolution.<br><br>
 <em>Grade Received:</em> A<br>
-<em>My Thoughts:</em> []
+
 </div>
 </div>
 
@@ -113,7 +124,7 @@ This course introduced us to a variety of
 <em>Institution:</em> University of California, San Diego<br>
 <em>Course Description:</em> Second course in an introductory two-quarter sequence on analysis. Topics include the Riemann integral, sequences and series of functions, uniform convergence, Taylor series, introduction to analysis in several variables.<br><br>
 <em>Grade Received:</em> A<br>
-<em>My Thoughts:</em> []
+
 </div>
 </div>
 
@@ -125,7 +136,7 @@ This course introduced us to a variety of
 <em>Institution:</em> University of California, San Diego<br>
 <em>Course Description:</em> First course in an introductory two-quarter sequence on analysis. Topics include the real number system, numerical sequences and series, infinite limits, limits of functions, continuity, differentiation. <br><br>
 <em>Grade Received:</em> A-<br>
-<em>My Thoughts:</em> []
+
 </div>
 </div>
 
@@ -137,6 +148,6 @@ This course introduced us to a variety of
 <em>Institution:</em> University of California, Berkeley<br>
 <em>Course Description:</em> A comprehensive survey of the fundamentals of biological chemistry, including the properties of intermediary metabolites, the structure and function of biological macromolecules, the logic of metabolic pathways (both degradative and biosynthetic) and the molecular basis of genetics and gene expression. <br><br>
 <em>Grade Received:</em> A<br>
-<em>My Thoughts:</em> []
+
 </div>
 </div>
